@@ -1,4 +1,4 @@
-#Fri Apr 21 12:18:08 CDT 2017
+#Fri Apr 21 12:46:15 CDT 2017
 base.0=C\:\\Users\\Itzli\\Documents\\GitHub\\CK-App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=C\:\\Users\\Itzli\\Documents\\GitHub\\CK-App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
