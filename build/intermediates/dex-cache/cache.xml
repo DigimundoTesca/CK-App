@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Itzli\.android\build-cache\e45d97a67f5d357af95e5c5ef362ed94e8a792a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\pre-dexed\debug\classes_80f950a72e627bee2c3d2f543d8393f94c20f807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Itzli\.android\build-cache\7d489f2c6c52866e8a0b2c7a7bc4b414437aa7cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\pre-dexed\debug\classes_21628832aba7767a012e97ce33e3e016e2ad5bc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Itzli\.android\build-cache\a484bfa1346c4062597cfa3f1393c27c92a6a292\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\pre-dexed\debug\classes_d2e4af8186c7121fe2debe3c960e563110d2c1d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Itzli\.android\build-cache\12576f85f5f977d023594a7a1e6819129405baf8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\pre-dexed\debug\classes_f7c44eb78226967c8e7ad1abab0469b80d833e8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Itzli\.android\build-cache\72d10f7f981f4d7e0a53b9f0723ac16416d27cb1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\pre-dexed\debug\classes_70e2b5063119904b030982c10ad633677e983b43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Itzli\.android\build-cache\5e6b184409cc6354f9d2f466734e60d30924ba9e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\pre-dexed\debug\classes_bedd89aa4badf9d12d20e87c76b8c1d9907f6767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Itzli\.android\build-cache\5ac7508c1f733ad1f5cd7f07c63a1b5f01f40c85\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\pre-dexed\debug\classes_88c45c4d33652aee48ca992837810e94c50f5266.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Itzli\.android\build-cache\e98d671dbf389dd96ad72d3c04a4088bf899f166\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\pre-dexed\debug\classes_e270780257457bf6111608d8b93d87004ce7c2f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Itzli\.android\build-cache\6315c4f507f72a18d165cbc723ac459e5d59b06d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\pre-dexed\debug\classes_41ef04185d851f313cfff29205167caea512b092.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Itzli\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_fa0e47f761f2120d581f500bdbb1fdcccf5a05be.jar" />
+    </item>
+
+</items>
