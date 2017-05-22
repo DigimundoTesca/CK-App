@@ -1,79 +1,79 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:3:5-37
-		INJECTED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml
+		ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:7:5-24:19
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Itzli\.android\build-cache\7d489f2c6c52866e8a0b2c7a7bc4b414437aa7cb\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Itzli\.android\build-cache\6315c4f507f72a18d165cbc723ac459e5d59b06d\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Itzli\.android\build-cache\e45d97a67f5d357af95e5c5ef362ed94e8a792a3\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Itzli\.android\build-cache\5e6b184409cc6354f9d2f466734e60d30924ba9e\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Itzli\.android\build-cache\72d10f7f981f4d7e0a53b9f0723ac16416d27cb1\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Itzli\.android\build-cache\12576f85f5f977d023594a7a1e6819129405baf8\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Itzli\.android\build-cache\5ac7508c1f733ad1f5cd7f07c63a1b5f01f40c85\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Itzli\.android\build-cache\e98d671dbf389dd96ad72d3c04a4088bf899f166\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Itzli\.android\build-cache\a484bfa1346c4062597cfa3f1393c27c92a6a292\output\AndroidManifest.xml:25:5-20
+ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Ramses\.android\build-cache\b19ac34d11122b95e890b088f4f6479b0df0a2d0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Ramses\.android\build-cache\29cf06d9ea3504033db3651a28ba0add8ecd6de4\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Ramses\.android\build-cache\2046909151b3528480b315390ab004e17f240b60\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Ramses\.android\build-cache\d84f070e66ce32bf6671eb856eaf136c5f134622\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Ramses\.android\build-cache\18e06b64f6743f169eea87b93f993cb38f1ffc08\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Ramses\.android\build-cache\cb1dbd3ecd6191743f3189e3c6aa612a6f01d43d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Ramses\.android\build-cache\9ac78d37c8e493c5cf491fdb55238099fcf06796\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Ramses\.android\build-cache\21b380096d9db9104382b638952df3bd2c144239\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Ramses\.android\build-cache\41769aac33884b1b2e2a1c09263a6e7347fb0230\output\AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:10:9-41
 	android:supportsRtl
-		ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:11:9-35
 	android:allowBackup
-		ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:8:9-35
 	android:icon
-		ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:9:9-43
 	android:theme
-		ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:12:9-40
+		ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:12:9-40
 activity#com.example.drdr_.sapp.FullscreenActivity
-ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:13:9-23:20
+ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:13:9-23:20
 	android:label
-		ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:16:13-45
+		ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:16:13-45
 	android:configChanges
-		ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:15:13-74
+		ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:15:13-74
 	android:theme
-		ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:17:13-51
+		ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:17:13-51
 	android:name
-		ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:14:13-47
+		ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:14:13-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml:21:27-74
 uses-sdk
-INJECTED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Itzli\.android\build-cache\7d489f2c6c52866e8a0b2c7a7bc4b414437aa7cb\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Itzli\.android\build-cache\6315c4f507f72a18d165cbc723ac459e5d59b06d\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Itzli\.android\build-cache\e45d97a67f5d357af95e5c5ef362ed94e8a792a3\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Itzli\.android\build-cache\5e6b184409cc6354f9d2f466734e60d30924ba9e\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Itzli\.android\build-cache\72d10f7f981f4d7e0a53b9f0723ac16416d27cb1\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Itzli\.android\build-cache\12576f85f5f977d023594a7a1e6819129405baf8\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Itzli\.android\build-cache\5ac7508c1f733ad1f5cd7f07c63a1b5f01f40c85\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Itzli\.android\build-cache\e98d671dbf389dd96ad72d3c04a4088bf899f166\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Itzli\.android\build-cache\a484bfa1346c4062597cfa3f1393c27c92a6a292\output\AndroidManifest.xml:21:5-23:58
+INJECTED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Ramses\.android\build-cache\b19ac34d11122b95e890b088f4f6479b0df0a2d0\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Ramses\.android\build-cache\29cf06d9ea3504033db3651a28ba0add8ecd6de4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Ramses\.android\build-cache\2046909151b3528480b315390ab004e17f240b60\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Ramses\.android\build-cache\d84f070e66ce32bf6671eb856eaf136c5f134622\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Ramses\.android\build-cache\18e06b64f6743f169eea87b93f993cb38f1ffc08\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Ramses\.android\build-cache\cb1dbd3ecd6191743f3189e3c6aa612a6f01d43d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Ramses\.android\build-cache\9ac78d37c8e493c5cf491fdb55238099fcf06796\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Ramses\.android\build-cache\21b380096d9db9104382b638952df3bd2c144239\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Ramses\.android\build-cache\41769aac33884b1b2e2a1c09263a6e7347fb0230\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Itzli\.android\build-cache\7d489f2c6c52866e8a0b2c7a7bc4b414437aa7cb\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Ramses\.android\build-cache\b19ac34d11122b95e890b088f4f6479b0df0a2d0\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Itzli\Documents\GitHub\CK-App\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Documentos\Git\CK-App\app\src\main\AndroidManifest.xml

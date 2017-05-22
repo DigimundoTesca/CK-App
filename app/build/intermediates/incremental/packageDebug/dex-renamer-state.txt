@@ -1,4 +1,7 @@
-#Fri Apr 21 12:46:15 CDT 2017
-base.0=C\:\\Users\\Itzli\\Documents\\GitHub\\CK-App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Mon May 22 03:21:05 CDT 2017
+base.0=F\:\\Documentos\\Git\\CK-App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cfee1ca4d51d33269c1e78b1c3b2184df8c5a8c7
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=C\:\\Users\\Itzli\\Documents\\GitHub\\CK-App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=F\:\\Documentos\\Git\\CK-App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2d227d092b2b1a979065a8fc98cdc69fb813abc7\\classes.dex
+base.1=F\:\\Documentos\\Git\\CK-App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2d227d092b2b1a979065a8fc98cdc69fb813abc7
+file.0=F\:\\Documentos\\Git\\CK-App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cfee1ca4d51d33269c1e78b1c3b2184df8c5a8c7\\classes.dex

@@ -8,6 +8,7 @@ import android.os.Handler;
 import android.view.MotionEvent;
 import android.view.View;
 import android.webkit.WebView;
+import android.webkit.WebViewClient;
 
 /**
  * An example full-screen activity that shows and hides the system UI (i.e.
@@ -93,8 +94,12 @@ public class FullscreenActivity extends AppCompatActivity {
         mVisible = true;
         mControlsView = findViewById(R.id.fullscreen_content_controls);
         mContentView = (WebView) findViewById(R.id.fullscreen_content);
-
-
+        mContentView.getSettings().setJavaScriptEnabled(true);
+        mContentView.setWebViewClient(new WebViewClient(){
+            public boolean shouldOverriceUrlLoading(WebView view, String url) {
+                return false;
+            }
+        });
         // Set up the user interaction to manually show or hide the system UI.
         mContentView.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -102,7 +107,7 @@ public class FullscreenActivity extends AppCompatActivity {
                 toggle();
             }
         });
-        mContentView.loadUrl("http://keffkaffe.cloudkitchen.online/diners/satisfaction-rating/");
+        mContentView.loadUrl("http://ramar.cloudkitchen.online/diners/satisfaction-rating/");
 
         // Upon interacting with UI controls, delay any scheduled hide()
         // operations to prevent the jarring behavior of controls going away

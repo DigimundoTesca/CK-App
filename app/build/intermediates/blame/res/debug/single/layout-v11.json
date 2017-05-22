@@ -1,26 +1,26 @@
 [
     {
-        "merged": "C:\\Users\\Itzli\\Documents\\GitHub\\CK-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
-        "source": "C:\\Users\\Itzli\\.android\\build-cache\\7d489f2c6c52866e8a0b2c7a7bc4b414437aa7cb\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+        "merged": "F:\\Documentos\\Git\\CK-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Ramses\\.android\\build-cache\\b19ac34d11122b95e890b088f4f6479b0df0a2d0\\output\\res\\layout-v11\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Users\\Itzli\\Documents\\GitHub\\CK-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\Users\\Itzli\\.android\\build-cache\\7d489f2c6c52866e8a0b2c7a7bc4b414437aa7cb\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+        "merged": "F:\\Documentos\\Git\\CK-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Ramses\\.android\\build-cache\\b19ac34d11122b95e890b088f4f6479b0df0a2d0\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "C:\\Users\\Itzli\\Documents\\GitHub\\CK-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
-        "source": "C:\\Users\\Itzli\\.android\\build-cache\\7d489f2c6c52866e8a0b2c7a7bc4b414437aa7cb\\output\\res\\layout-v11\\notification_template_big_media.xml"
+        "merged": "F:\\Documentos\\Git\\CK-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Ramses\\.android\\build-cache\\b19ac34d11122b95e890b088f4f6479b0df0a2d0\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "C:\\Users\\Itzli\\Documents\\GitHub\\CK-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
-        "source": "C:\\Users\\Itzli\\.android\\build-cache\\7d489f2c6c52866e8a0b2c7a7bc4b414437aa7cb\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+        "merged": "F:\\Documentos\\Git\\CK-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Ramses\\.android\\build-cache\\b19ac34d11122b95e890b088f4f6479b0df0a2d0\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Users\\Itzli\\Documents\\GitHub\\CK-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Users\\Itzli\\.android\\build-cache\\7d489f2c6c52866e8a0b2c7a7bc4b414437aa7cb\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+        "merged": "F:\\Documentos\\Git\\CK-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Ramses\\.android\\build-cache\\b19ac34d11122b95e890b088f4f6479b0df0a2d0\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Users\\Itzli\\Documents\\GitHub\\CK-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
-        "source": "C:\\Users\\Itzli\\.android\\build-cache\\7d489f2c6c52866e8a0b2c7a7bc4b414437aa7cb\\output\\res\\layout-v11\\notification_media_action.xml"
+        "merged": "F:\\Documentos\\Git\\CK-App\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Ramses\\.android\\build-cache\\b19ac34d11122b95e890b088f4f6479b0df0a2d0\\output\\res\\layout-v11\\notification_media_action.xml"
     }
 ]

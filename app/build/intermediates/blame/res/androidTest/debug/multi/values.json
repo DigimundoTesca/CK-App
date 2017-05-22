@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Itzli\\Documents\\GitHub\\CK-App\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "F:\\Documentos\\Git\\CK-App\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\Itzli\\.android\\build-cache\\b7ce68c6263cf6683ec8b963e27bd38bb8874873\\output\\res\\values\\values.xml",
+                    "file": "C:\\Users\\Ramses\\.android\\build-cache\\71c6ad1d7d4c9e1e9678b60ffe885acc9f5829d3\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
