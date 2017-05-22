@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\Documentos\\Git\\CK-App\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Ramses\\.android\\build-cache\\b19ac34d11122b95e890b088f4f6479b0df0a2d0\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\Documentos\\Git\\CK-App\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Ramses\\.android\\build-cache\\b19ac34d11122b95e890b088f4f6479b0df0a2d0\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\Documentos\\Git\\CK-App\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Ramses\\.android\\build-cache\\b19ac34d11122b95e890b088f4f6479b0df0a2d0\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\Documentos\\Git\\CK-App\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Ramses\\.android\\build-cache\\b19ac34d11122b95e890b088f4f6479b0df0a2d0\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]
