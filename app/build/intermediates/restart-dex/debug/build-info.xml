@@ -6,40 +6,37 @@
     density="hdpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1495441301455"
+    timestamp="1495442151363"
     token="-8181625439425568415"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="455" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="20" />
+        duration="0" />
     <task
         name="verifier"
-        duration="22" />
+        duration="0" />
 
-    <artifact
-        location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
     <artifact
         location="F:\Documentos\Git\CK-App\app\build\outputs\apk\app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1495441256757"
+        timestamp="1495442074804"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
         <artifact
             location="F:\Documentos\Git\CK-App\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
+        <artifact
+            location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
         <artifact
             location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
@@ -73,11 +70,8 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1495441301455"
+        timestamp="1495442151363"
         verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
         <artifact
             location="F:\Documentos\Git\CK-App\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />

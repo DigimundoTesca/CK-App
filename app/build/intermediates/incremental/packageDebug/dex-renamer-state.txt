@@ -1,4 +1,4 @@
-#Mon May 22 03:21:05 CDT 2017
+#Mon May 22 03:35:52 CDT 2017
 base.0=F\:\\Documentos\\Git\\CK-App\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cfee1ca4d51d33269c1e78b1c3b2184df8c5a8c7
 renamed.1=classes2.dex
 renamed.0=classes.dex
