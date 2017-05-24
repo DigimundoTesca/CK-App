@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="armeabi-v7a,armeabi"
-    api-level="23"
-    build-mode="COLD"
+    api-level="21"
+    build-mode="FULL"
     density="hdpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1495442151363"
+    timestamp="1495664804357"
     token="-8181625439425568415"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
@@ -24,21 +24,84 @@
         duration="0" />
 
     <artifact
-        location="F:\Documentos\Git\CK-App\app\build\outputs\apk\app-debug.apk"
+        location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\outputs\apk\app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1495442074804"
+        timestamp="1495664804357"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="F:\Documentos\Git\CK-App\app\build\outputs\apk\app-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
-            location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
@@ -47,10 +110,40 @@
             location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
             location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
@@ -59,21 +152,19 @@
             location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
             location="F:\Documentos\Git\CK-App\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1495442151363"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="F:\Documentos\Git\CK-App\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\Itzli\Documents\GitHub\CK-App\app\build\outputs\apk\app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
 

@@ -2,5 +2,9 @@
     {
         "merged": "F:\\Documentos\\Git\\CK-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
         "source": "F:\\Documentos\\Git\\CK-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Itzli\\Documents\\GitHub\\CK-App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Itzli\\Documents\\GitHub\\CK-App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]
